@@ -17,7 +17,7 @@ We have created a BiLSTM neural network that leverages the use of different embe
 ### 1. Word2Vec + Dot-product + BiLSTM + Sigmoid 
 ### 2. Word2Vec + Self-Attention + BiLSTM + Sigmoid 
 ### 3. Word2Vec + Cross-Attention + BiLSTM + Sigmoid 
-### 4. CodeBERT + concatenation + BiLSTM + Sigmoid 
+### 4. CodeBERT + Dot-Product + BiLSTM + Sigmoid 
 
 
 ## Results 
