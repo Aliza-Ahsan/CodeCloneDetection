@@ -3,7 +3,8 @@
 Cloned code fragments can lead to several issues: 
 - Bug Propagation: A bug in the original code is likely to be present in all its clones. 
 - Maintenance Overhead: Any update to a cloned segment must be replicated consistently. 
-- Code Bloat: Duplicated code increases the overall size and complexity of the codebase. 
+- Code Bloat: Duplicated code increases the overall size and complexity of the codebase.
+
 To address these issues, this research proposes a deep learning-based framework that integrates transformer-based embeddings with sequence modeling and attention mechanisms. The goal is to overcome the semantic limitations of traditional token-based methods, reduce the complexity of  tree-based approaches, and eliminate the practicality issues of graph-based models. By combining CodeBERT and Word2Vec embeddings with attention and BiLSTM layers, the 
 proposed system offers a more accurate, scalable, and semantically aware solution for detecting all types of code clones.**
 
